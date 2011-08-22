@@ -1,0 +1,11 @@
+whitelist:
+    enabled: true
+    message: You Suck
+
+mysql:
+    server_address: localhost
+    server_port: 8889
+    database_name: kingdoms
+    username: root
+    password: root
+    database_table_name: whitelist
