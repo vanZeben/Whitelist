@@ -1,6 +1,6 @@
 whitelist:
     enabled: true
-    message: You Suck
+    message: You're not whitelisted.
 
 mysql:
     server_address: localhost
